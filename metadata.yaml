@@ -1,17 +1,18 @@
-composer: Zelenka, Jan Dismas
+composer:
+  last: Zelenka
+  first: Jan Dismas
 title: Ecce nunc benedicite
 id: ZWV 92
 genre: psalm
-scoring: S, A, T, B (coro 1), S, A, T, B (coro 2), 2 ob, 2 vl, vla, b, org
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  A1:
     siglum: D-Dl
     shelfmark: Mus.2358-D-70
-    type: autograph manuscript
     date: 1739
     rism: 212006625
-    url: http://digital.slub-dresden.de/id426605853
+    url: https://digital.slub-dresden.de/id426605853
+    license: public domain
+    principal: true
 github: zelenka-ecce-nunc-benedicite-zwv-99
-imslp: Ecce_nunc_benedicite,_ZWV_99_(Zelenka,_Jan_Dismas)
-notes:
-
